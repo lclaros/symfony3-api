@@ -20,3 +20,10 @@ Registers a user in the system
 Gives us the token to manage users in the system
 ### /logout
 Close the session created for the user.
+
+## Clone && run project
+ * git clone ...
+ * cd my_project_name/
+ * composer install
+ * php bin/console server:run
+ * go to http://localhost:8000/config.php
