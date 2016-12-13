@@ -21,6 +21,10 @@ Gives us the token to manage users in the system
 ### /logout
 Close the session created for the user.
 
+## Prerequisites
+* Composer
+* php
+
 ## Clone && run project
  * git clone ...
  * cd my_project_name/
