@@ -1,0 +1,21 @@
+{
+  "name": "symfony3-api",
+  "homepage": "https://github.com/lclaros/symfony3-api",
+  "authors": [
+    "Luis Arce <luis.arce22.a@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/assets/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
