@@ -32,6 +32,16 @@ Close the session created for the user.
  * php bin/console server:run
  * go to http://localhost:8000/config.php
 
+## Development tools and scripts
+* Twig php templating
+* php bin/console generate:bundle
+* php bin/console generate:controller
+
+## Components developed
+* ProjectBundle
+* ProjectController
+* one and two actions
+
 ## Available Resources
 * /
 * /one
