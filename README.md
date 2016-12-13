@@ -31,3 +31,9 @@ Close the session created for the user.
  * composer install
  * php bin/console server:run
  * go to http://localhost:8000/config.php
+
+## Available Resources
+* /
+* /one
+* /two
+
